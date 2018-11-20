@@ -1,3 +1,4 @@
+public class MyCalculator{
     import java.util.Scanner;
     import java.util.InputMismatchException;
     import java.lang.NumberFormatException;
@@ -57,7 +58,7 @@
       "\nStep 3: Enter a double."+
       "\nStep 4: Repeat steps 2 and 3."+
       "\nTerminate software by entering anything else at step 2 or step 3.");
-  }
+  } 
 
 
 public static void main(String[] args) {
@@ -104,3 +105,6 @@ public static void main(String[] args) {
   }
 
 }
+
+
+

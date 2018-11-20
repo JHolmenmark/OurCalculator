@@ -1,4 +1,4 @@
-    import java.util.Scanner;
+    import java.util.Scanner;  //gruppuppgift
     import java.util.InputMismatchException;
     import java.lang.NumberFormatException;
     import java.text.DecimalFormat;
